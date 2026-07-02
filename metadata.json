@@ -1,0 +1,6 @@
+{
+  "name": "Calculadora de Carnicería",
+  "description": "Herramienta rápida y eficiente de mostrador para calcular precios, pesar productos y optimizar combos en carnicerías.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

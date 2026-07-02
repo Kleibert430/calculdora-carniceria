@@ -1,0 +1,17 @@
+{
+  "firestore": {
+    "collections": {
+      "settings": {
+        "description": "Configuraciones globales compartidas entre dispositivos",
+        "documents": {
+          "products": {
+            "description": "Lista de productos y precios sincronizados"
+          },
+          "inventory": {
+            "description": "Inventario de bandejas en tiempo real"
+          }
+        }
+      }
+    }
+  }
+}
